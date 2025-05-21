@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "해피",
+    "age": "2세",
+    "breed": "골든 리트리버",
+    "gender": "암컷",
+    "imageUrl": "https://img.freepik.com/premium-photo/adorable-white-pomeranian-puppy-spitz_463999-7.jpg?semt=ais_hybrid&w=740"
+  },
+  {
+    "id": 2,
+    "name": "조이",
+    "age": "1세",
+    "breed": "진도 믹스",
+    "gender": "수컷",
+    "imageUrl": "https://img.freepik.com/premium-photo/adorable-white-pomeranian-puppy-spitz_463999-7.jpg?semt=ais_hybrid&w=740"
+  }
+]

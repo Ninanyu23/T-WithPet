@@ -2,7 +2,13 @@ import React from 'react';
 import { View, Text, Image, StyleSheet } from 'react-native';
 import { Dog } from '../types/Dog';
 
+/**
+ * 강아지 정보를 담는 props
+ */
 interface Props {
+  /**
+   * 강아지 객체. 이름, 나이, 견종, 성별 정보 포함
+   */
   dog: Dog;
 }
 
